@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   Além disso, tenho diversos interesses além da área técnica. Adoro estudar sobre marketing, finanças e vendas. Nos meus momentos de lazer, gosto de jogar vídeo game, ouvir música e tocar violão. Sou também uma grande fã de Berserk e adoro ler os mangás.
   </p>
 <p style="text-align: justify;">
-  Estou sempre em busca de desafios e oportunidades para crescer como profissional e como indivíduo, portanto estou estudando para evoluir minhas habilidades e ser capaz de criar soluções que auxiliem as empresas a automatizarem seus processos para atrairem e fidelizarem clientes, através de sistemas, aplicativos, web sites otimizados com SEO, campanhas e captação de leads. Acredito que a união da tecnologia com o marketing cria um sistema diferenciado que proporciona uma experiência rica para os usuários.
+  Estou sempre em busca de desafios e oportunidades para crescer como profissional e como indivíduo. Portanto, estou estudando para evoluir minhas habilidades e ser capaz de criar soluções que auxiliem as empresas a automatizarem seus processos para atrairem e fidelizarem clientes, através de sistemas, aplicativos, web sites otimizados com SEO, campanhas e captação de leads. Acredito que a união da tecnologia com o marketing cria um sistema diferenciado que proporciona uma experiência rica para os usuários.
 Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.
  <!--Estatistica Aqui-->
 
