@@ -75,14 +75,16 @@ Já atuei com
 
 <p>
   
-[![CSharp](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=C-Sharp&logoColor=white)]()
-[![.Net Framework](https://img.shields.io/badge/-Framework-5C2D91?style=flat-square&logo=.NET&logoColor=white)]()
-[![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)]()
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/-SCSS-549FDE?style=flat-square&logo=scss&logoColor=white)]()
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)]()
-[![Sql Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)]()
-[![AmazonS3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)]()
+[![CSharp](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=C-Sharp&logoColor=white)](https://dotnet.microsoft.com/pt-br/languages/csharp)
+[![.Net Framework](https://img.shields.io/badge/-Framework-5C2D91?style=flat-square&logo=.NET&logoColor=white)](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+[![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/pt-br/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)](https://angular.io/)
+[![Sql Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
+[![DBeaver](https://img.shields.io/badge/-DBeaver-005C97?style=flat-square&logo=DBeaver&logoColor=white)](https://dbeaver.io/)
+[![AmazonS3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/pt/s3/)
 </p>
 
 <h3>
@@ -94,16 +96,16 @@ Trabalho com
 
 <p>
   
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)]() 
-[![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)]()
-[![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)]()
-[![Microsoft Team](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)]()
-[![Scrum](https://img.shields.io/badge/-Scrum-8A9296?style=flat-square&logo=scrutinizer-ci&logoColor=white)]()
-[![Kanban](https://img.shields.io/badge/-Kanban-0078D4?style=flat-square)]()
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)]()
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)]()
-[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)]()
-[![GitLab](https://img.shields.io/badge/-Gitlab-330F63?style=flat-square&logo=gitlab&logoColor=fff)]()
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) 
+[![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/software-download/windows10)
+[![Microsoft Team](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-teams/log-in)
+[![Scrum](https://img.shields.io/badge/-Scrum-8A9296?style=flat-square&logo=scrutinizer-ci&logoColor=white)](https://www.scrum.org/)
+[![Kanban](https://img.shields.io/badge/-Kanban-0078D4?style=flat-square)](https://artia.com/kanban/)
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)](https://www.atlassian.com/br/software/jira)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
+[![GitLab](https://img.shields.io/badge/-Gitlab-330F63?style=flat-square&logo=gitlab&logoColor=fff)](https://gitlab.com/users/sign_in)
 [![Gather](https://img.shields.io/badge/-Gather-0EABC0?style=flat-square&logo=gather&logoColor=white)](https://pt-br.gather.town/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)](https://insomnia.rest/)
 </p>
@@ -117,11 +119,11 @@ Estou Interessada
 
 <p>
   
-[![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-222E3C?style=flat-square&logo=amazon-aws&logoColor=F89500)]()
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-222E3C?style=flat-square&logo=amazon-aws&logoColor=F89500)](https://aws.amazon.com/pt/free)
+[![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
 [![Apex](https://img.shields.io/badge/-Apex-00A1E0?style=flat-square&logo=apex&logoColor=white)](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/)
-![Postman](https://img.shields.io/badge/-Postman-FD602F?style=flat-square&logo=postman&logoColor=white)
+[![Postman](https://img.shields.io/badge/-Postman-FD602F?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-02569B?style=flat-square&logo=flutterflow&logoColor=white)](https://www.flutterflow.com/)
 
