@@ -28,19 +28,20 @@ Here are some ideas to get you started:
 <!--Aqui entra Linkdin / Hotmail ou Gmail/ Instagram/  Youtube / Twitch -->
 <p>
   
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayra-mafra-b59b1a239/)]()
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/daymafra5?igshid=ZGUzMzM3NWJiOQ==)]()
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayra-mafra-b59b1a239/)](https://www.linkedin.com/in/dayra-mafra-b59b1a239/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/daymafra5?igshid=ZGUzMzM3NWJiOQ==)](https://instagram.com/daymafra5?igshid=ZGUzMzM3NWJiOQ==)
 </p>
 
 <!--Texto Rapido-->
-
-<h3 style="text-align: justify;">
-    <p style="margin-left: 35px;">É muito bom ter você aqui!😊<br> 
-    <p style="margin-left: 35px;">Aqui fica reunido alguns dos meus projetos realizados em rela-</p>ção a cursos e trabalhos da faculdade, sinta-se livre para explorar.<br> 
-    <p style="margin-left: 35px;">Em evolução diária na busca da senioridade e proficiência como</p> desenvolvedora.
+<h3>
+    É muito bom ter você aqui!😊<br> 
+    Aqui fica reunido alguns dos meus projetos realizados em relação a cursos e trabalhos da faculdade, sinta-se livre para explorar.<br> 
+    Em evolução diária na busca da senioridade e proficiência como desenvolvedora.
   <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>
 </h3>
+
 <hr>
+
 <!--Mais sobre mim-->
 
 <details>
