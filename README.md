@@ -19,14 +19,18 @@ Here are some ideas to get you started:
 <h1>
 <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👩&zwj;💻</g-emoji>
  Seja bem-vindo(a) ao meu repositório no GitHub!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=&center=true&width=380&height=45&lines=Focando 💪💻;DEV em Formação+🎯;Cursando ADS+🎓;Em+aprendizado+constante📚🚀;Nice+to+meet+you+%F0%9F%98%84)](https://git.io/typing-svg)
+<hr>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=&center=true&width=380&height=45&lines=Focando+💪+💻;DEV+em+Formação+🎯;Cursando+ADS+🎓;Em+aprendizado+constante+📚+🚀;Nice+to+meet+you+%F0%9F%98%84)](https://git.io/typing-svg)
 </h1>
 
 
 <!--Aqui entra Linkdin / Hotmail ou Gmail/ Instagram/  Youtube / Twitch -->
-[![Linkedin Badge](https://img.shields.io/badge/-My Linkedin -blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayra-mafra-b59b1a239/)](https://www.linkedin.com/in/dayra-mafra-b59b1a239/)
-
-[![Instagram](https://img.shields.io/badge/-My Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/daymafra5?igshid=ZGUzMzM3NWJiOQ==)]()
+<p>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayra-mafra-b59b1a239/)]()
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/daymafra5?igshid=ZGUzMzM3NWJiOQ==)]()
+</p>
 
 <!--Texto Rapido-->
 
@@ -36,7 +40,7 @@ Here are some ideas to get you started:
     <p style="margin-left: 35px;">Em evolução diária na busca da senioridade e proficiência como</p> desenvolvedora.
   <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>
 </h3>
-
+<hr>
 <!--Mais sobre mim-->
 
 <details>
@@ -66,29 +70,19 @@ Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão 
 Já atuei com
 </h3>
 
-
 <!--skill-->
 
 <p>
-
-
+  
 [![CSharp](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=C-Sharp&logoColor=white)]()
-
 [![.Net Framework](https://img.shields.io/badge/-Framework-5C2D91?style=flat-square&logo=.NET&logoColor=white)]()
-
 [![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)]()
-
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
-
 [![CSS3](https://img.shields.io/badge/-SCSS-549FDE?style=flat-square&logo=scss&logoColor=white)]()
-
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)]()
-
 [![Sql Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)]()
-
 [![AmazonS3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)]()
-
-
+</p>
 
 <h3>
 <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
@@ -98,28 +92,19 @@ Trabalho com
 <!--skill-->
 
 <p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" style="max-width:100%;"></a>
-
-
-![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
-![Microsoft Team](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)
-![Scrum](https://img.shields.io/badge/-Scrum-8A9296?style=flat-square&logo=scrutinizer-ci&logoColor=white)
-
+  
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)]() 
+[![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)]()
+[![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)]()
+[![Microsoft Team](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)]()
+[![Scrum](https://img.shields.io/badge/-Scrum-8A9296?style=flat-square&logo=scrutinizer-ci&logoColor=white)]()
 [![Kanban](https://img.shields.io/badge/-Kanban-0078D4?style=flat-square)]()
-
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)]()
-
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)]()
-
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)]()
-
 [![GitLab](https://img.shields.io/badge/-Gitlab-330F63?style=flat-square&logo=gitlab&logoColor=fff)]()
-
 [![Gather](https://img.shields.io/badge/-Gather-0EABC0?style=flat-square&logo=gather&logoColor=white)](https://pt-br.gather.town/)
-
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)](https://insomnia.rest/)
-
 </p>
 
   <h3>
@@ -127,23 +112,17 @@ Trabalho com
 Estou Interessada
   </h3>
 
-
 <!--skill-->
 
 <p>
+  
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-222E3C?style=flat-square&logo=amazon-aws&logoColor=F89500)]()
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 [![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
-
-
 [![Apex](https://img.shields.io/badge/-Apex-00A1E0?style=flat-square&logo=apex&logoColor=white)](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/)
-
 ![Postman](https://img.shields.io/badge/-Postman-FD602F?style=flat-square&logo=postman&logoColor=white)
 [![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
-
 [![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-02569B?style=flat-square&logo=flutterflow&logoColor=white)](https://www.flutterflow.com/)
-
-</p>
 
 <!--Most Used Languages-->
 
