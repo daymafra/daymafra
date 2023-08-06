@@ -21,9 +21,14 @@ Here are some ideas to get you started:
  Seja bem-vindo(a) ao meu repositório no GitHub!
 <hr>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=&center=true&width=380&height=45&lines=Focando+💪+💻;DEV+em+Formação+🎯;Cursando+ADS+🎓;Em+aprendizado+constante+📚+🚀;Nice+to+meet+you+%F0%9F%98%84)](https://git.io/typing-svg)
-</h1>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=&pause=1000&size=50&color=060005&background=FFFFFF00&center=true&width=1000&height=390&lines=Focando+💪+💻;DEV+em+Formação+🎯;Cursando+ADS+🎓;Em+aprendizado+constante+📚+🚀;Nice+to+meet+you+%F0%9F%98%84)](https://git.io/typing-svg)
 
+  <div align="end"><a href="https://visitcount.itsvg.in">
+<img src="https://visitcount.itsvg.in/api?id=daymafra&label=Nº+de+visitas+em+meu+perfil&color=10&icon=5&pretty=true" />
+</a>
+</div>
+
+</h1>
 
 <!--Aqui entra Linkdin / Hotmail ou Gmail/ Instagram/  Youtube / Twitch -->
 <p>
