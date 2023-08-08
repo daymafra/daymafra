@@ -23,12 +23,8 @@ Here are some ideas to get you started:
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=&pause=1000&size=40&color=060005&background=FFFFFF00&center=true&width=990&height=380&lines=Focando+💪+💻;DEV+em+Formação+🎯;Cursando+ADS+🎓;Em+aprendizado+constante+📚+🚀;Nice+to+meet+you+%F0%9F%98%84)](https://git.io/typing-svg)
 
-<!-- [![](https://visitcount.itsvg.in/api?id=daymafra&label=Visitas%20em%20meu%20perfil&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
-
 <div align="end">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=daymafra&label=Nº%20de%20visitas%20em%20meu%20perfil&color=11&icon=5&pretty=true" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=daymafra&label=Nº%20de%20visitas%20em%20meu%20perfil&color=blueviolet&style=plastic" /> 
 </div>
 
 </h1>
