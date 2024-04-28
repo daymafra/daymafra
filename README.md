@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  Seja bem-vindo(a) ao meu repositório no GitHub!
 <hr>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=&pause=1000&size=40&color=060005&background=FFFFFF00&center=true&width=990&height=380&lines=Focando+💪+💻;DEV+em+Formação+🎯;Cursando+ADS+🎓;Em+aprendizado+constante+📚+🚀;Nice+to+meet+you+%F0%9F%98%84)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=&pause=1000&size=40&color=blue&background=FFFFFF00&center=true&width=990&height=380&lines=Focando+💪+💻;DEV+em+Formação+🎯;Cursando+ADS+🎓;Em+aprendizado+constante+📚+🚀;Nice+to+meet+you+%F0%9F%98%84)](https://git.io/typing-svg)
 
 <div align="end">
   <img src="https://github.com/daymafra/daymafra/assets/74122669/b798008c-128a-49fd-a9d4-7373773b0c6e" alt="olho png" width="20" height="19" />
